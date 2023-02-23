@@ -1,0 +1,2 @@
+rootProject.name = "Bolsa Verde"
+include ':app'
