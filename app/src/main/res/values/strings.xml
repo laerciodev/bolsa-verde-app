@@ -13,4 +13,5 @@
     <string name="login_error">Email ou senha incorretos</string>
     <string name="email_exists">Este e-mail já está associado a uma conta</string>
     <string name="search_hint">Pesquisar</string>
+    <string name="buy_stock">Comprar ação</string>
 </resources>
