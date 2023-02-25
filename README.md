@@ -1,5 +1,7 @@
 # bolsa-verde-app
 
+Aplicativo de investimento sustentável feito para Android usando a tecnologia Kotlin que permite que pessoas a investam em empresas que têm um bom desempenho em termos de sustentabilidade. O app oferece informações sobre empresas que têm práticas comerciais sustentáveis, além de uma interface fácil para investidores fazerem suas escolhas.
+
 # screenshots
 
 Tela de login
