@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">Bolsa Verde</string>
+    <string name="app_name">Green Coin</string>
     <string name="email_hint">E-mail</string>
     <string name="password_hint">Senha</string>
+    <string name="cnpj_hint">CNPJ</string>
     <string name="create_account">Criar conta</string>
     <string name="company">Empresa</string>
     <string name="user">Usuário</string>
@@ -10,6 +11,7 @@
     <string name="invalid_email">E-mail inválido</string>
     <string name="empty_email">E-mail vazio</string>
     <string name="full_name">Nome completo</string>
+    <string name="fantasy_name">Nome fantasia</string>
     <string name="password">Senha</string>
     <string name="confirm_password">Confirme senha</string>
     <string name="create_account_success">Conta criada com sucesso</string>
@@ -17,4 +19,5 @@
     <string name="email_exists">Este e-mail já está associado a uma conta</string>
     <string name="search_hint">Pesquisar</string>
     <string name="buy_stock">Comprar ação</string>
+    <string name="sign_up_company">Cadastrar empresa</string>
 </resources>

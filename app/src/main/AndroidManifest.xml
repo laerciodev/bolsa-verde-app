@@ -12,6 +12,7 @@
         <activity android:name=".ChoosePersonActivity"></activity>
         <activity android:name=".DashboardActivity" />
         <activity android:name=".SignUpUserActivity" />
+        <activity android:name=".SignUpCompanyActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -19,7 +19,7 @@ class ChoosePersonActivity : AppCompatActivity() {
         }
 
         createAccountCompanyButton.setOnClickListener {
-            val intent = Intent(this, SignUpUserActivity::class.java)
+            val intent = Intent(this, SignUpCompanyActivity::class.java)
             startActivity(intent)
         }
 
