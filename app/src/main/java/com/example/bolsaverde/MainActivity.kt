@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         createAccountLink.setOnClickListener {
-            val intent = Intent(this, SignUpActivity::class.java)
+            val intent = Intent(this, ChoosePersonActivity::class.java)
             startActivity(intent)
         }
 

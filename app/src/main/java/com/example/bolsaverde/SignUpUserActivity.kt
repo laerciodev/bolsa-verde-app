@@ -7,11 +7,11 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.textfield.TextInputEditText
 
-class SignUpActivity : AppCompatActivity() {
+class SignUpUserActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_sign_up)
+        setContentView(R.layout.activity_sign_up_user)
 
         val db = DatabaseManager(this)
         val nameEditText = findViewById<TextInputEditText>(R.id.nameEditText)

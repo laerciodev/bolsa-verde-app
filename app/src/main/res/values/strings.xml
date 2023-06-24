@@ -3,7 +3,10 @@
     <string name="email_hint">E-mail</string>
     <string name="password_hint">Senha</string>
     <string name="create_account">Criar conta</string>
+    <string name="company">Empresa</string>
+    <string name="user">Usuário</string>
     <string name="login">Entrar</string>
+    <string name="choose_option">Escolha uma opção</string>
     <string name="invalid_email">E-mail inválido</string>
     <string name="empty_email">E-mail vazio</string>
     <string name="full_name">Nome completo</string>
